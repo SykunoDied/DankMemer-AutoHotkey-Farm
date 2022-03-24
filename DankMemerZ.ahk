@@ -20,7 +20,7 @@ Send, pls search {Enter}
 Sleep, 100
 Send, grass {Enter}
 Sleep, 100
-Send, pls beg {Enter}
+Send, pls dig {Enter}
 Sleep, 60000
 Goto, Start
 Exit:
